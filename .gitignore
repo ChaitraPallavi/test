@@ -1,0 +1,7 @@
+*.pyc
+
+.idea/workspace.xml
+error_log.txt
+
+
+
